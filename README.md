@@ -4,12 +4,9 @@ Team id: **39**
 
 | File | Description |
 |---|---|
-| `Lab_2_team_39_.ipynb` | Final notebook (team version) |
-| `Lab_2_team_39_.pdf` | Final compiled PDF report |
-| `Lab_2_team_39_.html` | Final HTML export |
-| `RV-CLT-PS-Lab2.ipynb` | Jupyter notebook with code, outputs and explanations |
-| `RV-CLT-PS-Lab2.pdf` | Compiled PDF report |
-| `RV-CLT-PS-Lab2.html` | HTML export of the notebook |
+| `Lab_2_team_39_.ipynb` | Jupyter notebook with code, outputs and explanations |
+| `Lab_2_team_39_.pdf` | Compiled PDF report |
+| `Lab_2_team_39_.html` | HTML export |
 
 Tasks:
 1. Hamming [7,4] code — reliability, CLT confidence interval, error distribution
